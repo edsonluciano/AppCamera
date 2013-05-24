@@ -6,7 +6,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>sample-phonegap-camera/README.md at master · gomobile/sample-phonegap-camera</title>
+        <title>sample-phonegap-camera/icon.png at master · gomobile/sample-phonegap-camera</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -39,7 +39,7 @@
       
       <meta http-equiv="x-pjax-version" content="e6f5dd9ec79a3f28962f9ad2031aacbb">
 
-        <link data-pjax-transient rel='permalink' href='/gomobile/sample-phonegap-camera/blob/205ad25656396f265b6ba3592e6a40da3a41114d/README.md'>
+        <link data-pjax-transient rel='permalink' href='/gomobile/sample-phonegap-camera/blob/205ad25656396f265b6ba3592e6a40da3a41114d/icon.png'>
     <meta property="og:title" content="sample-phonegap-camera"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/gomobile/sample-phonegap-camera"/>
@@ -373,7 +373,7 @@
 
                 <div class="select-menu-item js-navigation-item selected">
                   <span class="select-menu-item-icon octicon octicon-check"></span>
-                  <a href="/gomobile/sample-phonegap-camera/blob/master/README.md" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" rel="nofollow" title="master">master</a>
+                  <a href="/gomobile/sample-phonegap-camera/blob/master/icon.png" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" rel="nofollow" title="master">master</a>
                 </div> <!-- /.select-menu-item -->
             </div>
 
@@ -417,8 +417,8 @@
           
 
 
-<!-- blob contrib key: blob_contributors:v21:a3e84e6dac5876719e26bc3863e4116a -->
-<!-- blob contrib frag key: views10/v8/blob_contributors:v21:a3e84e6dac5876719e26bc3863e4116a -->
+<!-- blob contrib key: blob_contributors:v21:43313c1fbaacc567d1bd9af5787c6ee4 -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:43313c1fbaacc567d1bd9af5787c6ee4 -->
 
 
 <div id="slider">
@@ -427,13 +427,13 @@
       <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
 
         <div class="breadcrumb">
-          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/gomobile/sample-phonegap-camera" class="js-slide-to" data-branch="master" data-direction="back" itemscope="url"><span itemprop="title">sample-phonegap-camera</span></a></span></span><span class="separator"> / </span><strong class="final-path">README.md</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="README.md" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+          <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/gomobile/sample-phonegap-camera" class="js-slide-to" data-branch="master" data-direction="back" itemscope="url"><span itemprop="title">sample-phonegap-camera</span></a></span></span><span class="separator"> / </span><strong class="final-path">icon.png</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="icon.png" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
         </div>
 
       <a href="/gomobile/sample-phonegap-camera/find/master" class="js-slide-to" data-hotkey="t" style="display:none">Show File Finder</a>
 
 
-        <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/gomobile/sample-phonegap-camera/contributors/master/README.md">
+        <div class="commit commit-loader file-history-tease js-deferred-content" data-url="/gomobile/sample-phonegap-camera/contributors/master/icon.png">
           Fetching contributors…
 
           <div class="participation">
@@ -445,7 +445,7 @@
     </div><!-- ./.frame-meta -->
 
     <div class="frames">
-      <div class="frame" data-permalink-url="/gomobile/sample-phonegap-camera/blob/205ad25656396f265b6ba3592e6a40da3a41114d/README.md" data-title="sample-phonegap-camera/README.md at master · gomobile/sample-phonegap-camera · GitHub" data-type="blob">
+      <div class="frame" data-permalink-url="/gomobile/sample-phonegap-camera/blob/205ad25656396f265b6ba3592e6a40da3a41114d/icon.png" data-title="sample-phonegap-camera/icon.png at master · gomobile/sample-phonegap-camera · GitHub" data-type="blob">
 
         <div id="files" class="bubble">
           <div class="file">
@@ -453,99 +453,20 @@
               <div class="info">
                 <span class="icon"><b class="octicon octicon-file-text"></b></span>
                 <span class="mode" title="File Mode">file</span>
-                  <span>71 lines (56 sloc)</span>
-                <span>2.964 kb</span>
+                <span>5.744 kb</span>
               </div>
               <div class="actions">
                 <div class="button-group">
-                        <a class="minibutton tooltipped leftwards"
-                           title="Clicking this button will automatically fork this project so you can edit the file"
-                           href="/gomobile/sample-phonegap-camera/edit/master/README.md"
-                           data-method="post" rel="nofollow">Edit</a>
-                  <a href="/gomobile/sample-phonegap-camera/raw/master/README.md" class="button minibutton " id="raw-url">Raw</a>
-                    <a href="/gomobile/sample-phonegap-camera/blame/master/README.md" class="button minibutton ">Blame</a>
-                  <a href="/gomobile/sample-phonegap-camera/commits/master/README.md" class="button minibutton " rel="nofollow">History</a>
+                  <a href="/gomobile/sample-phonegap-camera/raw/master/icon.png" class="button minibutton " id="raw-url">Raw</a>
+                  <a href="/gomobile/sample-phonegap-camera/commits/master/icon.png" class="button minibutton " rel="nofollow">History</a>
                 </div><!-- /.button-group -->
               </div><!-- /.actions -->
 
             </div>
-              
-  <div id="readme" class="blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><p>This sample demonstrates the use of the PhoneGap Camera API to capture photos 
-with device camera or to retrieve photos from the saved photo albums. It also demonstrates 
-the variety of configurations with which photos can be captured.
-The application uses jQuery as well as jQuery Mobile (for theming).</p>
-
-<h2>
-<a name="intelr-html5-development-environment-beta" class="anchor" href="#intelr-html5-development-environment-beta"><span class="octicon octicon-link"></span></a>Intel(R) HTML5 Development Environment Beta</h2>
-
-<p>This sample is part of the Intel(R) HTML5 Development Environment tool. 
-Please sign up the beta at <a href="http://software.intel.com/en-us/html5">http://software.intel.com/en-us/html5</a>.
-To see the technical detail of the sample, please visit the sample article page 
-at <a href="http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the">http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the</a>. </p>
-
-<h2>
-<a name="license-information-follows" class="anchor" href="#license-information-follows"><span class="octicon octicon-link"></span></a>License Information Follows</h2>
-
-<ul>
-<li>index.html</li>
-<li>css/camera.css</li>
-<li>js/camera.js</li>
-<li>abstract.txt</li>
-<li>app.json</li>
-<li>config.xml</li>
-<li>README.md</li>
-<li>icon.png</li>
-<li>screenshot.png</li>
-</ul><p>Copyright (c) 2012, Intel Corporation. All rights reserved.</p>
-
-<p>Redistribution and use in source and binary forms, with or without modification, 
-are permitted provided that the following conditions are met:</p>
-
-<ul>
-<li><p>Redistributions of source code must retain the above copyright notice, 
-this list of conditions and the following disclaimer.</p></li>
-<li><p>Redistributions in binary form must reproduce the above copyright notice, 
-this list of conditions and the following disclaimer in the documentation 
-and/or other materials provided with the distribution.</p></li>
-<li><p>Neither the name of Intel Corporation nor the names of its contributors 
-may be used to endorse or promote products derived from this software 
-without specific prior written permission.</p></li>
-</ul><p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
-THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
-ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
-GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
-LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
-OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-
-<h2>
-<a name="jquery-and-jquery-mobile" class="anchor" href="#jquery-and-jquery-mobile"><span class="octicon octicon-link"></span></a>jQuery and jQuery Mobile</h2>
-
-<ul>
-<li>js/jquery-1.7.1.min.js</li>
-<li>js/jquery.mobile-1.1.1.min.js </li>
-<li>css/jquery.mobile-1.1.1.min.css</li>
-</ul><p>Copyright (c) 2012, jQuery Foundation and other contributors.</p>
-
-<ul>
-<li>source:  <a href="http://jquery.com/">http://jquery.com/</a>
-</li>
-<li>source:  <a href="http://jquerymobile.com/">http://jquerymobile.com/</a>
-</li>
-<li>license:  <a href="http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt">http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt</a>
-</li>
-</ul><h2>
-<a name="cordova-phonegap-library" class="anchor" href="#cordova-phonegap-library"><span class="octicon octicon-link"></span></a>Cordova (PhoneGap) Library</h2>
-
-<ul>
-<li><p>phonegap.js (cordova-2.0.0.js)</p></li>
-<li><p>source:  <a href="http://www.phonegap.com/">http://www.phonegap.com/</a></p></li>
-<li><p>license:  <a href="http://www.apache.org/licenses/LICENSE-2.0.html">http://www.apache.org/licenses/LICENSE-2.0.html</a></p></li>
-</ul></article>
+                <div class="blob-wrapper data type-text js-blob-data">
+      <div class="image js-image">
+          <span class="border-wrap"><img src="/gomobile/sample-phonegap-camera/blob/master/icon.png?raw=true" /></span>
+      </div>
   </div>
 
           </div>
@@ -628,7 +549,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<
       <hr class="footer-divider">
 
 
-    <p class="right">&copy; 2013 <span title="0.07154s from fe3.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
+    <p class="right">&copy; 2013 <span title="0.10114s from fe3.rs.github.com">GitHub</span>, Inc. All rights reserved.</p>
     <a class="left" href="/">
       <span class="mega-octicon octicon-mark-github"></span>
     </a>
@@ -674,7 +595,7 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<
     </div>
 
     
-    <span id='server_response_time' data-time='0.07205' data-host='fe3'></span>
+    <span id='server_response_time' data-time='0.10178' data-host='fe3'></span>
     
   </body>
 </html>
