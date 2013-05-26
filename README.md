@@ -1,0 +1,4 @@
+AppCamera
+=========
+
+Camera com PhoneGap
