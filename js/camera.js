@@ -225,31 +225,7 @@ function fillSettingsInfo(infoDivName) {
         return;
     }
     
-    var settingsInfo = getElement(infoDivName);
-    if (typeof Camera === "undefined") {
-        settingsInfo.innerHTML = "<h3 style='text-decoration: underline;'>The Cordova Camera API is inaccessible</h3>";
-    }
-    else {
-        settingsInfo.innerHTML = "";
-    }
-    
-    if (settingsInfo != null) {
-        settingsInfo.innerHTML += "<h3>Configurações: </h3>" +
-                                 "<table>" +
-                                 "<tr><td class='bh'>Opções de Edição: </td></tr>" + 
-                                 "<tr><td class='bi'>Qualidade:</td><td>" + settings.quality + " of 100</td></tr>" +
-                                 "<tr><td class='bi'>Tamanho Imagem:</td><td>" + settings.targetWidth + " px</td></tr>" +
-                                 "<tr><td class='bi'>Altura Imagem:</td><td>" + settings.targetHeight + " px</td></tr>" +
-                                 "<tr><td class='bi'>Permitir Zoom:</td><td>" + ((settings.allowEdit == true) ? "Yes" : "No") + "</td></tr>" + 
-                                 "<tr><td class='bi'>Correção orientação:</td><td>" + ((settings.correctOrientation == true) ? "Yes" : "No") + "</td></tr>" +
-                                 "<tr><td class='bh'>Opções de Salvar: </td></tr>" + 
-                                 "<tr><td class='bi'>Tipo Codificação:</td><td>" + settingsBatch.elements["encod_input"].options[settings.encodingType].innerHTML + "</td></tr>" +
-                                 "<tr><td class='bi'>Salvar em album:</td><td>" + ((settings.saveToPhotoAlbum == true) ? "Yes" : "No") + "</td></tr>" +
-                                 "<tr><td class='bh'>Opções de Abrir: </td></tr>" + 
-                                 "<tr><td class='bi'>Tipo:</td><td>" + settingsBatch.elements["media_input"].options[settings.mediaType].innerHTML + "</td></tr>" +
-                                 "</table>";
-    }
-}
+ }
 
 // Determines whether the current device is running iOS
 function isIOS() {
