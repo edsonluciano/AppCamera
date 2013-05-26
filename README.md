@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   
 
 
@@ -679,3 +680,9 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<
   </body>
 </html>
 
+=======
+AppCamera
+=========
+
+Camera com PhoneGap
+>>>>>>> d0f6e78ee6d4a1d5f246f4f08da94c3f533c117a
